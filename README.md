@@ -1,3 +1,16 @@
+<!-- repository-badges:start -->
+<div align="center">
+
+[![Contributors](https://img.shields.io/github/contributors/Psyche0920/ft_printf?style=for-the-badge)](https://github.com/Psyche0920/ft_printf/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Psyche0920/ft_printf?style=for-the-badge)](https://github.com/Psyche0920/ft_printf/forks)
+[![Stars](https://img.shields.io/github/stars/Psyche0920/ft_printf?style=for-the-badge)](https://github.com/Psyche0920/ft_printf/stargazers)
+[![Issues](https://img.shields.io/github/issues/Psyche0920/ft_printf?style=for-the-badge)](https://github.com/Psyche0920/ft_printf/issues)
+[![License](https://img.shields.io/badge/license-not_specified-lightgrey?style=for-the-badge)](https://github.com/Psyche0920/ft_printf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Weijia_Han-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/weijia-han-6162581b5/)
+
+</div>
+<!-- repository-badges:end -->
+
 # ✨ ft_printf
 
 <p align="center">
